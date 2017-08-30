@@ -10,9 +10,6 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="stylesheet" href="css/foundation.css">
-        <link rel="stylesheet" href="css/app.css">
-
         {% seo %}
     </head>
 
@@ -22,7 +19,7 @@
         <div id="header_wrap" class="outer">
             <header class="inner">
 
-                <img id="project_logo" src="/img/logo.png" alt="{{ site.title }} logo">
+                <img id="project_logo" src="/assets/images/logo.png" alt="{{ site.title }} logo">
                 <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
                 <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
@@ -57,9 +54,9 @@
         </script>
         {% endif %}
 
-        <script src="js/vendor/jquery.js"></script>
-        <script src="js/vendor/what-input.js"></script>
-        <script src="js/vendor/foundation.js"></script>
-        <script src="js/app.js"></script>
+        <script src="/assets/js/vendor/jquery.js"></script>
+        <script src="/assets/js/vendor/what-input.js"></script>
+        <script src="/assets/js/vendor/foundation.js"></script>
+        <script src="/assets/js/app.js"></script>
     </body>
 </html>
