@@ -16,11 +16,12 @@
 title: ProViTao - Jugando aprenderemos a cuidar nuestra salud
 email: carina.211@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  El equipo de investigación de Interacción, Tecnología y Educación de la
-  Universidad de La Laguna desarrolla proyectos para prevenir y ayudar al
-  tratamiento de la obesidad infantil y el sobrepeso, fomentando hábitos de
-  vida saludables. En este contexto, surge el proyecto ProViTAO de videojuegos
-  para el tratamiento ambulatorio de la obesidad infantil.
+  Nuestro proyecto ProViTao es una iniciativa de un grupo de investigación que
+  pretende ayudar a superar problemas de obesidad a niños y niñas de una manera
+  divertida y eficaz.
+  
+  Nos centramos en promover una vida sana mediante la nutrición, el deporte y
+  actividades gamificadas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://provitao.ull.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: provitao
