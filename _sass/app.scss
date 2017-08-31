@@ -19,6 +19,14 @@ body {
 }
 #main_content_wrap {
     border-top: 2px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+}
+#footer_wrap {
+    background: #ffffff;
+    .row {
+        text-align: center;
+        color: #aaaaaa;
+    }
 }
 .post-content {
     text-align: justify;
