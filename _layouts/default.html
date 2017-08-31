@@ -51,13 +51,13 @@
         <div id="footer_wrap" class="outer">
             <footer class="inner">
                 <div class="row medium-up-2 large-up-4 patreon-logos">
-                    <div class="column patreon-logo-wrapper">
-                        {% for patreon in site.data.patreons %}
+                    {% for patreon in site.data.patreons %}
+                    <div class="columns patreon-logo-wrapper">
                         <a class="patreon-logo-link" href="{{ patreon.href }}">
                             <img class="patreon-logo" src="/assets/images/patreons/{{ patreon.filename }}" alt="{{ patreon.alt }}">
                         </a>
-                        {% endfor %}
                     </div>
+                    {% endfor %}
                 </div>
                 <div class="row">
                     {% if site.github.is_project_page %}
