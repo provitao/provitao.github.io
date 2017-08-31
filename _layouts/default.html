@@ -11,6 +11,13 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+        {% capture i18n_date_now %}
+        {{ page.date | date: "%-d" }}
+        {% assign m = page.date | date: "%-m" | minus: 1 %}
+        {{ site.data.es.months[m] }}
+        {{ page.date | date: "%Y" }}
+        {% endcapture %}
+
         {% seo %}
     </head>
 
@@ -20,7 +27,7 @@
         <div id="header_wrap" class="outer">
             <header class="inner">
 
-                <div id="project_logo_wrapper"><img id="project_logo" src="/assets/images/logo.png" alt="{{ site.title }} logo"></div>
+                <div id="project_logo_wrapper"><a href="/"><img id="project_logo" src="/assets/images/logo.png" alt="{{ site.title }} logo"></a></div>
                 <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
                 <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 

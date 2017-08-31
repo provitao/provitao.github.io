@@ -7,8 +7,13 @@ layout: default
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-            {{ page.date | date: date_format }}
+            {% capture i18n_date_post %}
+            {{ page.date | date: "%-d" }}
+            {% assign m = page.date | date: "%-m" | minus: 1 %}
+            {{ site.data.es.months[m] }}
+            {{ page.date | date: "%Y" }}
+            {% endcapture %}
+            {{ i18n_date_post }}
         </time>
         {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
