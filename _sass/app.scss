@@ -1,3 +1,6 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
 #project_logo_wrapper {
     text-align: center;
 }
@@ -5,4 +8,12 @@
     max-width: 150px;
     border: unset;
     box-shadow: unset;
+}
+#header_wrap {
+    background-image: url(/assets/images/banner.jpg);
+    background-position: top center;
+    background-size: cover;
+}
+#main_content_wrap {
+    border-top: 2px solid #cccccc;
 }
