@@ -1,0 +1,25 @@
+ - 
+   src: /assets/images/slides/slide_1.jpg
+   alt: Imagen 1
+   caption: Imágen de prueba 1
+   details: Detalles de la imagen 1
+ - 
+   src: /assets/images/slides/slide_2.jpg
+   alt: Imagen 2
+   caption: Imágen de prueba 2
+   details: Detalles de la imagen 2
+ - 
+   src: /assets/images/slides/slide_3.jpg
+   alt: Imagen 3
+   caption: Imágen de prueba 3
+   details: Detalles de la imagen 3
+ - 
+   src: /assets/images/slides/slide_4.jpg
+   alt: Imagen 4
+   caption: Imágen de prueba 4
+   details: Detalles de la imagen 4
+ - 
+   src: /assets/images/slides/slide_5.jpg
+   alt: Imagen 5
+   caption: Imágen de prueba 5
+   details: Detalles de la imagen 5
