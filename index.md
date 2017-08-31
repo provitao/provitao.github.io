@@ -6,7 +6,7 @@ layout: default
     <div class="medium-8 column">
         <h2>Galería</h2>
 
-        <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
+        <div class="orbit" role="region" aria-label="Fotos del proyecto" data-orbit>
             <div class="orbit-wrapper">
                 <div class="orbit-controls">
                     <button class="orbit-previous"><span class="show-for-sr">Siguiente</span>&#9664;&#xFE0E;</button>
