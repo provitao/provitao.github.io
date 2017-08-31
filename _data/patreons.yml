@@ -1,4 +1,16 @@
  - 
-   href: "#"
-   alt: "test"
-   filename: "test.png"
+   href: "http://www.cajacanarias.com"
+   alt: "Fundación Caja Canarias"
+   filename: "fcc.png"
+ - 
+   href: "https://www.ull.es"
+   alt: "Universidad de La Laguna"
+   filename: "ull.png"
+ - 
+   href: "http://www.iter.es"
+   alt: "Instituto Tecnológico y de Energías Renovables"
+   filename: "iter.png"
+ - 
+   href: "http://www3.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=3da5f513-541b-11de-9665-998e1388f7ed"
+   alt: "Hospital Universitario de Canarias"
+   filename: "huc.png"
