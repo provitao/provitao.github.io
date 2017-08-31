@@ -50,10 +50,21 @@
         <!-- FOOTER  -->
         <div id="footer_wrap" class="outer">
             <footer class="inner">
-                {% if site.github.is_project_page %}
-                <p class="copyright">{{ site.title | default: site.github.repository_name }} mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-                {% endif %}
-                <p>Publicado con <a href="https://pages.github.com">GitHub Pages</a></p>
+                <div class="row medium-up-2 large-up-4 patreon-logos">
+                    <div class="column patreon-logo-wrapper">
+                        {% for patreon in site.data.patreons %}
+                        <a class="patreon-logo-link" href="{{ patreon.href }}">
+                            <img class="patreon-logo" src="/assets/images/patreons/{{ patreon.filename }}" alt="{{ patreon.alt }}">
+                        </a>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="row">
+                    {% if site.github.is_project_page %}
+                    <p class="copyright">{{ site.title | default: site.github.repository_name }} mantenido por <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+                    {% endif %}
+                    <p>Publicado con <a href="https://pages.github.com">GitHub Pages</a></p>
+                <div>
             </footer>
         </div>
 
