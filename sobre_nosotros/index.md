@@ -1,30 +1,57 @@
 ---
 layout: page
-title: Sobre nosotros
+title: Integrantes
 ---
 
-**Lorem Ipsum** is simply dummy text of the _printing and typesetting_ industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type
-specimen book. It has survived not only five centuries, but also the leap into
-electronic typesetting, remaining essentially unchanged. It was popularised in
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-and more recently with desktop publishing software like Aldus PageMaker
-including versions of Lorem Ipsum.
+El equipo de personas responsable de llevar a cabo el proyecto PROVITAO es el siguiente:
 
-# Headers are simple
-## here is an h2 header
-### This is an h3 header
+## Investigadora principal
+- [Carina Soledad González González](https://www.researchgate.net/profile/Carina_Gonzalez/)
 
- - And this is an ul
- - with some lis
- - in no specific order
+## Área Tecnología
 
+ - [Pedro A. Toledo Delgado](https://www.researchgate.net/profile/Pedro_Toledo)
+ - [Yeray del Cristo Barrios Fleitas](https://www.researchgate.net/profile/Yeray_Barrios_Fleitas)
+ - [Alberto Mora Carreño](https://scholar.google.es/citations?user=i_EGmy0AAAAJ&hl=es)
+ - Belén Armas Torres
+ - Vanesa Muñoz Cruz
+ - Lorenzo Moreno Ruiz
+ - Jesús Rodríguez Alamo
+ - Miguel A. Padrón
+ - Niobe Jerez
 
-  2. and here is an ol
-  3. with some random elements
-  1. clearly ordered
-  4. but the numbers don't need to be correct
-  3. They are ok in the output
+## Área sanitaria
 
-[Links are easy too.](/)
+ - [Nazaret Gómez del Río](https://www.researchgate.net/profile/Nazaret_Gomez3)
+ - [Raquel Martín González](https://www.researchgate.net/profile/Raquel_Martin5)
+ - [Carmela Quirce González](https://www.researchgate.net/profile/Carmela_Quirce)
+ - [Norberto Marrero Gordillo](https://www.researchgate.net/profile/N_Marrero-Gordillo)
+ - [Honorio Armas Ramos](https://e-guia.ull.es/medicina/queryprof.php?id=1268)
+ - [Mariana E. Cairós González](https://www.researchgate.net/profile/Mariana_Cairos?_sg=zfEQDWWLbGtIn96pf7-9ofh4eQ2KtrkJ_No-Xm51PwXPNr1yLh3m1wC-9V4ctt8LFMYy6nWlyjuUcygg)
+ - Josue Monzón Diaz
+ - Mercedes Murray
+
+## Área educativa
+
+ - [Vicente Navarro Adelantado](https://www.researchgate.net/profile/Vicente_Navarro-Adelantado)
+ - [Luis Navarro Campillo](https://www.linkedin.com/in/luis-navarro-campillo-4a5a7a86?ppe=1)
+ - [Elisenda Espino Espino](https://www.researchgate.net/profile/Elisenda_Espino_Espino)
+ - Silvia Vera González
+
+## Colaboradores internacionales
+ - [Pablo V. Torres Carrion](https://www.researchgate.net/profile/Pablo_Torres-Carrion)
+ - [Isa Neves](http://www.cdi.uneb.br/site/wp-content/uploads/2017/05/ISA-BEATRIZ-DA-CRUZ-NEVES.pdf)
+ - [Lynn Alves](https://scholar.google.com/citations?user=smUw-JMAAAAJ&hl=en)
+
+## Colaboradores
+
+ - Cristina Tosco González
+ - Nazaret Miranda López
+ - Laura Gómez González
+ - Adrian Martínez Escalona
+ - Mirían Hernández Rodríguez
+ - Santiago Sainz Fernández
+ - Oliver Valido Ramos
+ - Juvenal Santiso Hernández
+ - Robabeh Salehiozoumchelouei
+ - Noelia Rodríguez Martín
