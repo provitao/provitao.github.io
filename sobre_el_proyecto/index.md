@@ -26,33 +26,12 @@ cardiovascular, resistencia a la insulina y efectos psicológicos derivados de
 las burlas y comentarios de sus compañeros, asociando con frecuencia una baja
 autoestima, síntomas ansiosos o depresivos, aislamiento social, etc.
 
-Se sabe que la adhesión al tratamiento en domicilio y los cambios de conducta
-son hitos difíciles de conseguir, ya que la respuesta al seguimiento telefónico
-no siempre resulta satisfactoria. Por ello, en el proyecto
-[PROVITAO](http://videm.es/provitao) (PROgrama de VIdeojuegos activos para el
-traTAmiento de la Obesidad) se pretende apoyar al tratamiento de la obesidad en
-las edades tempranas, contribuyendo a la mejora del estado de la salud de los
-pacientes y a la prevención de trastornos futuros en edades adultas. Este apoyo
-tiene vertiente formativa en hábitos saludables tomando al juego motor y a los
-videojuegos activos como ejes transversales de la actividad. Se cuenta para
-ello con un modelo de intervención educativa diseñada para la educación en
-hábitos saludables, con un programa de ejercicios, juegos motores y videojuegos
-comerciales y propios del grupo, tales como [TANGO:H](http://tangoh.iter.es/),
-para los pacientes y para los padres, en donde se alternan sesiones
-presenciales y sesiones en el hogar. Todo este programa está “gamificado”, es
-decir, se aprovechan las mecánicas de los juegos para lograr motivar y
-“enganchar” a los niños y niñas en las actividades.
-
-Asimismo, se hará uso de herramientas de tele-rehabilitación, como la
-videoconferencia, para mantener el contacto y realizar el seguimiento de los
-pacientes en sus hogares. La población destino serán los niños/as con obesidad
-entre 8 y 12 años cuyo IMC sea superior al Pc 97. Asimismo, se contará con sus
-padres o tutores legales.
-
 Este proyecto está financiado por [Fundación
 CajaCanarias](http://www.cajacanarias.com/microsites/ayudas-investigacion-sanitaria/index.php?accion=resolucion)
-en el marco del Programa de Ayudas para proyectos de Investigación Sanitaria, y
-con la colaboración de la [Promoción de la Salud del Servicio Canario de
-Salud](http://www2.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=7e922394-a9a4-11dd-b574-dd4e320f085c)
-y del [Hospital Universitario de Canarias
+en el marco del Programa de Ayudas para proyectos de Investigación Sanitaria,
+con la participacion del [Hospital Universitario de Canarias
 (HUC)](http://www2.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=3da5f513-541b-11de-9665-998e1388f7ed).
+, el [Instituto Tecnológico y de Energías Renovables
+(ITER)](http://www.iter.es) y con la colaboración del servicio de [Promoción de
+la Salud del Servicio Canario de
+Salud](http://www2.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=7e922394-a9a4-11dd-b574-dd4e320f085c)

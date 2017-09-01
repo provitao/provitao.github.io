@@ -60,7 +60,7 @@ layout: default
     {% endfor %}
 </div>
 
-## Publicaciones
+## Algunas publicaciones
 
 <ul class="list">
     {% for publication in site.data.publications %}
