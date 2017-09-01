@@ -1,25 +1,50 @@
  - 
-   src: /assets/images/slides/slide_1.jpg
-   alt: Imagen 1
-   caption: Imágen de prueba 1
-   details: Detalles de la imagen 1
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481
+   alt: Album Formación Padres y Madres
+   caption: Album formación
+   details: Formación de Padres y Madres
  - 
-   src: /assets/images/slides/slide_2.jpg
-   alt: Imagen 2
-   caption: Imágen de prueba 2
-   details: Detalles de la imagen 2
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092114301361498642
+   alt: Imagen1 Formación Padres y Madres
+   caption: Imagen1 formación 2014
+   details: Formación de Padres y Madres
  - 
-   src: /assets/images/slides/slide_3.jpg
-   alt: Imagen 3
-   caption: Imágen de prueba 3
-   details: Detalles de la imagen 3
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092115474436625810
+   alt: Imagen2 Formación Padres y Madres
+   caption: Imagen3 formación 2014
+   details: Formación de Padres y Madres
  - 
-   src: /assets/images/slides/slide_4.jpg
-   alt: Imagen 4
-   caption: Imágen de prueba 4
-   details: Detalles de la imagen 4
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092115875704584514
+   alt: Imagen3 Formación Padres y Madres
+   caption: Imagen3 formación 2014
+   details: Formación de Padres y Madres
  - 
-   src: /assets/images/slides/slide_5.jpg
-   alt: Imagen 5
-   caption: Imágen de prueba 5
-   details: Detalles de la imagen 5
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092116298756468322
+   alt: Imagen3 Formación Padres y Madres
+   caption: Imagen3 formación 2014
+   details: Formación de Padres y Madres
+ - 
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092116474866187122
+   alt: Imagen4 Formación Padres y Madres
+   caption: Imagen4 formación 2014
+   details: Formación de Padres y Madres
+ - 
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092117314413445730
+   alt: Imagen5 Formación Padres y Madres
+   caption: Imagen5 formación 2014
+   details: Formación de Padres y Madres
+ - 
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092117559031848530
+   alt: Imagen6 Formación Padres y Madres
+   caption: Imagen6 formación 2014
+   details: Formación de Padres y Madres
+ - 
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092118021233652850
+   alt: Imagen7 Formación Padres y Madres
+   caption: Imagen7 formación 2014
+   details: Formación de Padres y Madres
+ - 
+   src: https://plus.google.com/photos/109032488015332469559/album/6092114221221594481/6092118311300226578
+   alt: Imagen8 Formación Padres y Madres
+   caption: Imagen8 formación 2014
+   details: Formación de Padres y Madres

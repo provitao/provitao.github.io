@@ -1,16 +1,24 @@
  - 
-   label: Enlace 1
-   href: http://test/enlace_1
+   label: Servicio de Promoción de la Salud. Gobierno de Canarias
+   href: http://www3.gobiernodecanarias.org/sanidad/scs/organica.jsp?idCarpeta=7e922394-a9a4-11dd-b574-dd4e320f085c
  - 
-   label: Enlace 2
-   href: http://test/enlace_2
+   label: Programa PIPO
+   href: http://www.programapipo.com/
  - 
-   label: Enlace 3
-   href: http://test/enlace_3
+   label: Los Círculos de la Vida Saludables
+   href: http://circulosdelavida.es/
  - 
-   label: Enlace 4
-   href: http://test/enlace_4
+   label: Canarias Saludable
+   href: http://www.canariassaludable.org/
  - 
-   label: Enlace 5
-   href: http://test/enlace_5
-
+   label: Red de Escuelas Promotoras de Salud
+   href: http://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/redes-educativas/rceps/
+ - 
+   label: Programa Escuela y Salud
+   href: http://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/redes-educativas/rceps/
+ - 
+   label: Programa ECO-Comedores
+   href: http://www.gobiernodecanarias.org/educacion/web/programas-redes-educativas/programas-educativos/educa-ambiental/comedores-escolares-ecologicos/
+ - 
+   label: Estrategia NAOS
+   href: http://www.aecosan.msssi.gob.es/AECOSAN/web/nutricion/seccion/estrategia_naos.htm
