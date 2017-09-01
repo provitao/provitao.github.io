@@ -25,7 +25,9 @@ body {
     background: #ffffff;
     .row {
         text-align: center;
-        color: #aaaaaa;
+        p, a {
+            color: #aaaaaa;
+        }
     }
 }
 .post-content {
