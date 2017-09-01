@@ -1,6 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+h2 {
+    font-size: 150%;
+}
 .inner {
     max-width: 970px;
 }
@@ -46,6 +49,7 @@ body {
     padding:0px;
     margin:0px;
     li {
+        font-size: 80%;
         list-style:none;
         padding-top: 0.5em;
         padding-bottom: 0.5em;
