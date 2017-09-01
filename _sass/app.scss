@@ -41,3 +41,16 @@ body {
     max-width: 100%;
     box-shadow: unset;
 }
+.list {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    li {
+        list-style:none;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        &:not(:last-child) {
+            border-bottom: 1px solid #dddddd;
+        }
+    }
+}

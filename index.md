@@ -62,21 +62,27 @@ layout: default
 
 ## Publicaciones
 
-{% for publication in site.data.publications %}
-<li><a href="{{ publication.href }}">{{ publication.label }}</a></li>
-{% endfor %}
+<ul class="list">
+    {% for publication in site.data.publications %}
+    <li><a href="{{ publication.href }}">{{ publication.label }}</a></li>
+    {% endfor %}
+</ul>
 
 ## Prensa
 
-{% for article in site.data.articles %}
-<li><a href="{{ article.href }}">{{ article.label }}</a></li>
-{% endfor %}
+<ul class="list">
+    {% for article in site.data.articles %}
+    <li><a href="{{ article.href }}">{{ article.label }}</a></li>
+    {% endfor %}
+</ul>
 
 ## Enlaces de interés
 
-{% for link in site.data.links %}
-<li><a href="{{ link.href }}">{{ link.label }}</a></li>
-{% endfor %}
+<ul class="list">
+    {% for link in site.data.links %}
+    <li><a href="{{ link.href }}">{{ link.label }}</a></li>
+    {% endfor %}
+</ul>
 
 ## Blog
 <ul class="post-list">
