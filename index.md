@@ -84,6 +84,7 @@ layout: default
     {% endfor %}
 </ul>
 
+<!--
 ## Blog
 <ul class="post-list">
     {% for post in site.posts %}
@@ -103,3 +104,4 @@ layout: default
     </li>
     {% endfor %}
 </ul>
+-->
